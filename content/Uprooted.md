@@ -1,11 +1,6 @@
 ---
 title: Uprooted
-created: 2025-05-28
+draft: false
 tags:
-  - book
-  - magic
   - wildwomen
-  - folklore
-  - nature
 ---
-nother noted

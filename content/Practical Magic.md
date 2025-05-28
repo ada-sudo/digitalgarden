@@ -1,9 +1,5 @@
 ---
-title: Practical Magic
-created: 2025-05-28
-tags:
-  - movie
-  - sibilings
-  - magic
+title: practical magic
+draft: false
+tags: []
 ---
-Hello this is my first note.
