@@ -1,3 +1,4 @@
+
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
@@ -15,6 +16,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
+    contentDir: "content",
     locale: "en-US",
     baseUrl: "quartz.jzhao.xyz",
     ignorePatterns: ["private", "templates", ".obsidian"],
